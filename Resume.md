@@ -1,7 +1,7 @@
-[![Charan's Image](https://github.com/charangani/UMBC-DATA606-Capstone/raw/main/assets/99157216/5f4aa0a9-f9d0-4cd8-8951-a2de58d4f4e5)](https://github.com/charangani/UMBC-DATA606-Capstone)
 
-<!-- Resize the image to a width of 100 pixels -->
-<img src="https://github.com/charangani/UMBC-DATA606-Capstone/raw/main/assets/99157216/5f4aa0a9-f9d0-4cd8-8951-a2de58d4f4e5" alt="Charan's Image" width="100">
+<p align="center">
+  <img src="https://github.com/charangani/charangani/blob/main/WEEK01/charan.jpg" width="250" height="280" >
+</p>
 
 # Charan Ganemaneni
 
@@ -19,19 +19,12 @@ Data Science graduate student with a solid foundation in statistical analysis, m
 
 - **Master of Professional Studies in Data Science**  
   University of Maryland Baltimore County, USA  
-  Aug 2022 - Present
+  Expected Graduation: May 2024
 
 - **Bachelor of Technology in Mechanical Engineering**  
   Sreenidhi Institute of Science and Technology, Hyderabad, India  
-  July 2018 - July 2021  
-  GPA: 8.48/10.0
+  Graduated: July 2021  
 
-## Technical Skills
-
-- **Programming:** Python, Java, MATLAB, CNC
-- **Databases:** MySQL, MS SQL
-- **Tools/Platform:** Power BI, MS Excel, MS Access, Selenium WebDriver, ETL
-- **Software:** Catia, Ansys, SolidEdge, Fusion360, ProgeCAD
 
 ## Experience
 
@@ -52,10 +45,22 @@ Jun 2020 - Nov 2020
 
 ## Projects
 
-1. **Design of Smart Material using IoT**
-2. **Human Face Detection with and without Masks using Deep Learning**
+1. **Flight Delay and Price Prediction Project**
+   - Predict flight prices by analyzing delays and identifying potential causes.
+   - Utilized historical data, weather patterns, and other factors to forecast the probability of delays.
+3. **Human Face Detection with and without Masks using Deep Learning**
    - Presented a method for a smart world that can help minimize the transmission of Coronavirus by alerting when someone is not wearing a mask.
-3. **Design and Analysis of Electric Bike**
+4. **Design and Analysis of Electric Bike**
+   - A fully functional prototype of an electric bike with detailed documentation of its design and components.
+   - Performance analysis data including speed, range, and efficiency under various conditions.
+
+## Technical Skills
+
+- **Programming:** Python, Java, MATLAB,
+- **Databases:** MySQL, MS SQL
+- **Machine Learning:** Pandas, NumPy, TensorFlow, Scikit-learn
+- **Tools/Platform:** Power BI, MS Excel, MS Access, Selenium WebDriver, ETL
+- **Software:** Catia, Ansys, SolidEdge, Fusion360, ProgeCAD
 
 ## Certifications
 
@@ -65,8 +70,10 @@ Jun 2020 - Nov 2020
 - AI For Everyone
 - Agile Developer certification
 
-## Achievements
+## Personal Interest
 
-- Awarded Merit scholarship in my Bachelors.
-- Campus ambassador partner for Internshala Education.
-
+- Watching Social media platforms
+- Playing Cricket
+- Hiking and cycling
+- Exploring new Places
+- Technology Enthusiast
