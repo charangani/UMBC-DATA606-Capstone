@@ -1,9 +1,19 @@
+[![Charan's Image](https://github.com/charangani/UMBC-DATA606-Capstone/raw/main/assets/99157216/5f4aa0a9-f9d0-4cd8-8951-a2de58d4f4e5)](https://github.com/charangani/UMBC-DATA606-Capstone)
+
+<!-- Resize the image to a width of 100 pixels -->
+<img src="https://github.com/charangani/UMBC-DATA606-Capstone/raw/main/assets/99157216/5f4aa0a9-f9d0-4cd8-8951-a2de58d4f4e5" alt="Charan's Image" width="100">
+
 # Charan Ganemaneni
 
-4743 Westland Blvd, Arbutus, MD 21227  
+5401 Vicky Dr, Newark, Delaware, 19702  
 Phone: +1(302) 688-0076  
-Email: charang1@umbc.edu  
+Email: charangani99@gmail.com 
 LinkedIn: [linkedin.com/in/charan-ganemaneni/](https://www.linkedin.com/in/charan-ganemaneni/)
+
+# Summary
+
+Data Science graduate student with a solid foundation in statistical analysis, machine learning, and data engineering. Possessing a Master's degree and one year of hands-on experience in data science role. Demonstrated ability to extract meaningful insights from complex datasets, implement machine learning algorithms, and communicate findings effectively. Experienced in utilizing programming languages such as Python & R, and proficient in data manipulation and visualization tools. Seeking opportunities to leverage academic knowledge and practical experience in a challenging data science role to drive innovation and business success.
+
 
 ## Education
 
