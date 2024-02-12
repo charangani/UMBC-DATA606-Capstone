@@ -1,8 +1,8 @@
 <h1><b>BANK CHURN PREDICTION</b></h1><br>
 <h2><b>Title And Author</b></h2>
-Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang
-Author: Charan Ganemaneni, UMBC, Spring-2024 Semester
-GitHub Link: https://github.com/charangani
+Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang<br>
+Author: Charan Ganemaneni, UMBC, Spring-2024 Semester<br>
+GitHub Link: https://github.com/charangani<br>
 <br>
 <h2><b>BACKGROUND</b></h2>
 The dataset is about predicting customer churn in the banking sector. It contains various features like credit score, age, tenure, balance, number of products, credit card status, active membership status, estimated salary, and churn status1. Predicting customer churn is critical for businesses, especially in the banking sector. Retaining existing customers is often more cost-effective than acquiring new ones. By predicting which customers are likely to churn, banks can proactively address their concerns and improve customer retention1.<br>
