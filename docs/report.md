@@ -6,25 +6,25 @@ GitHub Link: https://github.com/charangani<br>
 
 <h2><b>BACKGROUND</b></h2>
 The dataset is about predicting customer churn in the banking sector. It contains various features like credit score, age, tenure, balance, number of products, credit card status, active membership status, estimated salary, and churn status. Predicting customer churn is critical for businesses, especially in the banking sector. Retaining existing customers is often more cost-effective than acquiring new ones. By predicting which customers are likely to churn, banks can proactively address their concerns and improve customer retention1.<br>
-Research Questions : <br>
+<b>Research Questions :</b> <br>
 “Can we predict if a customer will churn based on their profile information?” This can be broken down into several sub-questions, such as:<br>
 “What factors are most influential in predicting customer churn?”<br>
 “How does age affect the likelihood of churn?”<br>
 “Does having a credit card make a customer more or less likely to churn?”<br>
 “How does the number of products a customer uses affect their likelihood of churn?”<br>
 <h2><b>Data</b></h2>
-Data sources: https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data/data
-Data size: 36.27 MB
-Data shape:
+<b>ata sources:</b> https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data/data
+<b>Data size:</b> 36.27 MB
+<b>Data shape:</b>
 
 | Dataset | Count |
 |--------------|-------|
 | Rows | 175028 |
 | Columns | 25 |
 
-What does each row represent?(a patient, a school, a crime, etc.)<br>
+<b>What does each row represent?(a patient, a school, a crime, etc.)<br></b>
 Each row in the dataset represents a unique customer of the bank.<br>
-Data dictionary:
+<b>Data dictionary:</b>
 
 | Column Name | Data Type | Definition | Potential Values |
 |-------------|-----------|------------|------------------|
@@ -40,14 +40,14 @@ Data dictionary:
 | Exited | Binary | Whether the customer has churned | 1 = yes, 0 = no |
 
 <br>
-Columns name:<br>
+<b>Columns name:</b><br>
 'Surname', 'CreditScore', 'Age', 'Tenure', 'Balance', 'NumOfProducts',
        'HasCrCard', 'IsActiveMember', 'EstimatedSalary', 'Exited',
        'Surname_tfidf_0', 'Surname_tfidf_1', 'Surname_tfidf_2',
        'Surname_tfidf_3', 'Surname_tfidf_4', 'France', 'Germany', 'Spain',
        'Female', 'Male', 'Mem__no__Products', 'Cred_Bal_Sal', 'Bal_sal',
        'Tenure_Age', 'Age_Tenure_product'<br>
-Data type:
+<b>Data type:</b>
 
 | Column | Non-Null Count | Dtype |
 |--------|---------------|-------|
@@ -77,7 +77,7 @@ Data type:
 | Tenure_Age | 175028 | float64 |
 | Age_Tenure_product | 175028 | float64 |
 
-Which variable/column will be your target/label in your ML model?<br>
+<b>Which variable/column will be your target/label in your ML model?<br></b>
 Exited column will be the target/label in the machine learning model as it indicates whether the customer has churned or not.<br><br>
-Which variables/columns may be selected as features/predictors for your ML models?<br>
+<b>Which variables/columns may be selected as features/predictors for your ML models?<br></b>
  The features/predictors for the machine learning model could be all the other columns: Surname, CreditScore, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, and EstimatedSalary. These features can provide valuable insights into the factors that might influence a customer’s decision to churn. However, the actual selection of features would depend on further analysis and feature importance determined by the model. For example, Surname might not be a useful predictor and could be dropped based on the specific use case and data analysis.
