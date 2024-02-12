@@ -16,6 +16,7 @@ Research Questions : <br>
 Data sources: https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data/data
 Data size: 36.27 MB
 Data shape:
+
 | Dataset | Count |
 |--------------|-------|
 | Rows | 175028 |
@@ -47,6 +48,7 @@ Columns name:<br>
        'Female', 'Male', 'Mem__no__Products', 'Cred_Bal_Sal', 'Bal_sal',
        'Tenure_Age', 'Age_Tenure_product'<br>
 Data type:
+
 | Column | Non-Null Count | Dtype |
 |--------|---------------|-------|
 | Surname | 175028 | int64 |
