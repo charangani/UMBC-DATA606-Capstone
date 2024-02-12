@@ -43,33 +43,33 @@ Columns name:<br>
        'Female', 'Male', 'Mem__no__Products', 'Cred_Bal_Sal', 'Bal_sal',
        'Tenure_Age', 'Age_Tenure_product'<br>
 Data type:
- #   Column              Non-Null Count   Dtype  
----  ------              --------------   -----  
- 0   Surname             175028 non-null  int64  
- 1   CreditScore         175028 non-null  float64
- 2   Age                 175028 non-null  float64
- 3   Tenure              175028 non-null  float64
- 4   Balance             175028 non-null  float64
- 5   NumOfProducts       175028 non-null  float64
- 6   HasCrCard           175028 non-null  int64  
- 7   IsActiveMember      175028 non-null  int64  
- 8   EstimatedSalary     175028 non-null  float64
- 9   Exited              175028 non-null  int64  
- 10  Surname_tfidf_0     175028 non-null  float64
- 11  Surname_tfidf_1     175028 non-null  float64
- 12  Surname_tfidf_2     175028 non-null  float64
- 13  Surname_tfidf_3     175028 non-null  float64
- 14  Surname_tfidf_4     175028 non-null  float64
- 15  France              175028 non-null  int64  
- 16  Germany             175028 non-null  int64  
- 17  Spain               175028 non-null  int64  
- 18  Female              175028 non-null  int64  
- 19  Male                175028 non-null  int64  
- 20  Mem__no__Products   175028 non-null  float64
- 21  Cred_Bal_Sal        175028 non-null  float64
- 22  Bal_sal             175028 non-null  float64
- 23  Tenure_Age          175028 non-null  float64
- 24  Age_Tenure_product  175028 non-null  float64
+| Column | Non-Null Count | Dtype |
+|--------|---------------|-------|
+| Surname | 175028 | int64 |
+| CreditScore | 175028 | float64 |
+| Age | 175028 | float64 |
+| Tenure | 175028 | float64 |
+| Balance | 175028 | float64 |
+| NumOfProducts | 175028 | float64 |
+| HasCrCard | 175028 | int64 |
+| IsActiveMember | 175028 | int64 |
+| EstimatedSalary | 175028 | float64 |
+| Exited | 175028 | int64 |
+| Surname_tfidf_0 | 175028 | float64 |
+| Surname_tfidf_1 | 175028 | float64 |
+| Surname_tfidf_2 | 175028 | float64 |
+| Surname_tfidf_3 | 175028 | float64 |
+| Surname_tfidf_4 | 175028 | float64 |
+| France | 175028 | int64 |
+| Germany | 175028 | int64 |
+| Spain | 175028 | int64 |
+| Female | 175028 | int64 |
+| Male | 175028 | int64 |
+| Mem__no__Products | 175028 | float64 |
+| Cred_Bal_Sal | 175028 | float64 |
+| Bal_sal | 175028 | float64 |
+| Tenure_Age | 175028 | float64 |
+| Age_Tenure_product | 175028 | float64 |
 
 Potential values (for categorical valuables, what are the categories?)
 Which variable/column will be your target/label in your ML model?<br>
