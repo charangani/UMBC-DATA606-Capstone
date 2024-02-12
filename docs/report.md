@@ -21,8 +21,7 @@ columns:<br>25
 What does each row represent?(a patient, a school, a crime, etc.)<br>
 Each row in the dataset represents a unique customer of the bank.<br>
 Data dictionary:<br>
-<table>
-  
+
 Column Name	Data Type	Definition	Potential Values
 Surname	Categorical	Label Encoded Surnames	Various encoded surnames
 CreditScore	Numerical	A numerical value representing the customer’s credit score	Any numerical value
@@ -34,7 +33,7 @@ HasCrCard	Binary	Whether the customer has a credit card	1 = yes, 0 = no
 IsActiveMember	Binary	Whether the customer is an active member	1 = yes, 0 = no
 EstimatedSalary	Numerical	The estimated salary of the customer	Any numerical value
 Exited	Binary	Whether the customer has churned	1 = yes, 0 = no
-</table>
+<br>
 Columns name:<br>
 'Surname', 'CreditScore', 'Age', 'Tenure', 'Balance', 'NumOfProducts',
        'HasCrCard', 'IsActiveMember', 'EstimatedSalary', 'Exited',
@@ -42,7 +41,7 @@ Columns name:<br>
        'Surname_tfidf_3', 'Surname_tfidf_4', 'France', 'Germany', 'Spain',
        'Female', 'Male', 'Mem__no__Products', 'Cred_Bal_Sal', 'Bal_sal',
        'Tenure_Age', 'Age_Tenure_product'<br>
-Data type:
+Data type:<br>
 | Column | Non-Null Count | Dtype |
 |--------|---------------|-------|
 | Surname | 175028 | int64 |
