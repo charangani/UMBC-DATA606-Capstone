@@ -15,7 +15,7 @@ Research Questions : <br>
 <h2><b>Data</b></h2>
 Data sources: https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data/data
 Data size: 36.27 MB
-Data shape:<br>
+Data shape:
 | Dataset | Count |
 |--------------|-------|
 | Rows | 175028 |
@@ -23,7 +23,7 @@ Data shape:<br>
 
 What does each row represent?(a patient, a school, a crime, etc.)<br>
 Each row in the dataset represents a unique customer of the bank.<br>
-Data dictionary:<br>
+Data dictionary:
 
 | Column Name | Data Type | Definition | Potential Values |
 |-------------|-----------|------------|------------------|
@@ -46,7 +46,7 @@ Columns name:<br>
        'Surname_tfidf_3', 'Surname_tfidf_4', 'France', 'Germany', 'Spain',
        'Female', 'Male', 'Mem__no__Products', 'Cred_Bal_Sal', 'Bal_sal',
        'Tenure_Age', 'Age_Tenure_product'<br>
-Data type:<br>
+Data type:
 | Column | Non-Null Count | Dtype |
 |--------|---------------|-------|
 | Surname | 175028 | int64 |
