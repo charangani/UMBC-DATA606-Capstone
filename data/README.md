@@ -1,3 +1,4 @@
+<b>Data Folder</b>
 Dataset: https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data/data
 
 This is a Binary Classification dataset related to bank churn. It’s used for predictive analytics, specifically focusing on the identification of potential customer churn within a banking context.
