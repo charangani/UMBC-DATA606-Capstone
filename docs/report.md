@@ -22,17 +22,19 @@ What does each row represent?(a patient, a school, a crime, etc.)<br>
 Each row in the dataset represents a unique customer of the bank.<br>
 Data dictionary:<br>
 
-Column Name	Data Type	Definition	Potential Values
-Surname	Categorical	Label Encoded Surnames	Various encoded surnames
-CreditScore	Numerical	A numerical value representing the customer’s credit score	Any numerical value
-Age	Numerical	The customer’s age	Any numerical value
-Tenure	Numerical	The number of years the customer has been with the bank	Any numerical value
-Balance	Numerical	The customer’s account balance	Any numerical value
-NumOfProducts	Numerical	The number of bank products the customer uses	Any numerical value
-HasCrCard	Binary	Whether the customer has a credit card	1 = yes, 0 = no
-IsActiveMember	Binary	Whether the customer is an active member	1 = yes, 0 = no
-EstimatedSalary	Numerical	The estimated salary of the customer	Any numerical value
-Exited	Binary	Whether the customer has churned	1 = yes, 0 = no
+| Column Name | Data Type | Definition | Potential Values |
+|-------------|-----------|------------|------------------|
+| Surname | Categorical | Label Encoded Surnames | Various encoded surnames |
+| CreditScore | Numerical | A numerical value representing the customer's credit score | Any numerical value |
+| Age | Numerical | The customer's age | Any numerical value |
+| Tenure | Numerical | The number of years the customer has been with the bank | Any numerical value |
+| Balance | Numerical | The customer's account balance | Any numerical value |
+| NumOfProducts | Numerical | The number of bank products the customer uses | Any numerical value |
+| HasCrCard | Binary | Whether the customer has a credit card | 1 = yes, 0 = no |
+| IsActiveMember | Binary | Whether the customer is an active member | 1 = yes, 0 = no |
+| EstimatedSalary | Numerical | The estimated salary of the customer | Any numerical value |
+| Exited | Binary | Whether the customer has churned | 1 = yes, 0 = no |
+
 <br>
 Columns name:<br>
 'Surname', 'CreditScore', 'Age', 'Tenure', 'Balance', 'NumOfProducts',
