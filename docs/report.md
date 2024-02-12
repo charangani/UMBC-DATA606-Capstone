@@ -77,8 +77,7 @@ Data type:
 | Tenure_Age | 175028 | float64 |
 | Age_Tenure_product | 175028 | float64 |
 
-Potential values (for categorical valuables, what are the categories?)
 Which variable/column will be your target/label in your ML model?<br>
-Exited column will be the target/label in the machine learning model as it indicates whether the customer has churned or not.<br>
+Exited column will be the target/label in the machine learning model as it indicates whether the customer has churned or not.<br><br>
 Which variables/columns may be selected as features/predictors for your ML models?<br>
  The features/predictors for the machine learning model could be all the other columns: Surname, CreditScore, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, and EstimatedSalary. These features can provide valuable insights into the factors that might influence a customer’s decision to churn. However, the actual selection of features would depend on further analysis and feature importance determined by the model. For example, Surname might not be a useful predictor and could be dropped based on the specific use case and data analysis.
