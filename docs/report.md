@@ -16,8 +16,11 @@ Research Questions : <br>
 Data sources: https://www.kaggle.com/datasets/cybersimar08/binary-classification-of-bank-churn-synthetic-data/data
 Data size: 36.27 MB
 Data shape:<br>
-rows:<br>175028
-columns:<br>25
+| Dataset | Count |
+|--------------|-------|
+| Rows | 175028 |
+| Columns | 25 |
+
 What does each row represent?(a patient, a school, a crime, etc.)<br>
 Each row in the dataset represents a unique customer of the bank.<br>
 Data dictionary:<br>
