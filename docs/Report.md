@@ -2,15 +2,19 @@
 
 **Title:** Predicting Customer Churn in the Banking Sector
 
-**Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaoji (Jay) Wang
+**Prepared for** UMBC Data Science Master Degree Capstone by Dr. Chaoji (Jay) Wang
 
 **Author:** Charan Ganemaneni
 
 **Semester:** UMBC, Spring-2024 Semester
 
+**GitHub Link:** https://github.com/charangani
 
+**Linkedin Profile:** linkedin.com/in/charan-ganemaneni-9779a6158
 
-**GitHub Link:** [Charan Ganemaneni - GitHub](https://github.com/charangani)
+**Powerpoint Presentation:** https://github.com/charangani/UMBC-DATA606-Capstone/blob/main/docs/Presentation.pptx
+
+**Youtube video:** https://www.youtube.com/watch?v=fVv2gU8gFdc
 
 ## Background
 
