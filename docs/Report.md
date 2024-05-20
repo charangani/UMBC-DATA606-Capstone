@@ -1,6 +1,6 @@
 # BANK CHURN PREDICTION
 
-**Title:** Predicting Customer Churn in the Banking Sector
+**Title:** Bank Customer Churn Prediction
 
 **Prepared for** UMBC Data Science Master Degree Capstone by Dr. Chaoji (Jay) Wang
 
